@@ -1,7 +1,7 @@
 # api-consulta-cidade
 
 - Criar uma API express que consulta no via cep
-- Adicionar logica para recuperar UF permitidas via .env
+- Adicionar logica para recuperar UF permitidas via .json
 - Poder Atualizar quais UF são permitidas
 
 (Todos PR devem ser feitos a partir da main, e devem ser abertos para a main)
